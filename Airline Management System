@@ -1,0 +1,47 @@
+# ✈️ Airline Management System
+
+Airline Management System is a Java-based project developed to manage and automate airline operations such as flight scheduling, passenger management, ticket booking, and reservation tracking.
+
+This system helps airlines maintain records efficiently and provides a simple interface for handling airline-related tasks.
+
+---
+
+## 🚀 Features
+
+- Flight Details Management  
+- Passenger Registration  
+- Ticket Booking System  
+- Reservation and Cancellation  
+- View Booking Records  
+- Admin Control for Airline Operations  
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (Core Java)
+- JDBC (Database Connectivity)
+- MySQL Database
+- HTML/CSS (Optional Frontend)
+
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to provide an efficient and user-friendly airline management platform that reduces manual work and improves accuracy in handling airline services.
+
+---
+
+## 📌 Future Enhancements
+
+- Online Payment Integration  
+- Real-time Flight Status Updates  
+- User Login & Authentication  
+- Web-based Interface  
+
+---
+
+## 👨‍💻 Developed By
+
+Ajay Chaudhary  
+BCA Student | Java Developer  
